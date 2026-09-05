@@ -1,0 +1,774 @@
+{
+  "metadata": {
+    "title": "US dividend withholding tax rates by country",
+    "edition": "2026",
+    "publisher": "DivAtlas",
+    "source": "IRS Tax Treaty Table 1",
+    "source_rev": "Rev. May 2023",
+    "source_url": "https://www.irs.gov/pub/irs-lbi/tax-treaty-table-1.pdf",
+    "treaty_list_url": "https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z",
+    "rate_type": "portfolio_general",
+    "last_verified": "2026-09-03",
+    "license": "CC0-1.0",
+    "canonical_url": "https://www.divatlas.com/us-dividend-tax-rates-by-country/",
+    "row_count": 84
+  },
+  "data": [
+    {
+      "country": "Argentina",
+      "iso2": "AR",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No US income tax treaty"
+    },
+    {
+      "country": "Armenia",
+      "iso2": "AM",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "Old USSR treaty gives no dividend reduction: 30% applies"
+    },
+    {
+      "country": "Australia",
+      "iso2": "AU",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "2001 protocol; 5% direct rate for 10%+ corporate holders"
+    },
+    {
+      "country": "Austria",
+      "iso2": "AT",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Azerbaijan",
+      "iso2": "AZ",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "Old USSR treaty gives no dividend reduction: 30% applies"
+    },
+    {
+      "country": "Bangladesh",
+      "iso2": "BD",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Barbados",
+      "iso2": "BB",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Belarus",
+      "iso2": "BY",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "Old USSR treaty gives no dividend reduction: 30% applies; certain interest claims suspended Dec 17, 2024 (dividends unaffected)"
+    },
+    {
+      "country": "Belgium",
+      "iso2": "BE",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Brazil",
+      "iso2": "BR",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No US income tax treaty"
+    },
+    {
+      "country": "Bulgaria",
+      "iso2": "BG",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 10,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Canada",
+      "iso2": "CA",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "RRSP/401(k)-style plans may be exempt under Art. XXI"
+    },
+    {
+      "country": "Chile",
+      "iso2": "CL",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "Treaty in force since 2023"
+    },
+    {
+      "country": "China (PRC)",
+      "iso2": "CN",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 10,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "Mainland residents; does not extend to Hong Kong or Macau"
+    },
+    {
+      "country": "Colombia",
+      "iso2": "CO",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No US income tax treaty"
+    },
+    {
+      "country": "Croatia",
+      "iso2": "HR",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "Treaty signed Dec 7, 2022, not yet in force: the 30% default applies"
+    },
+    {
+      "country": "Cyprus",
+      "iso2": "CY",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Czech Republic",
+      "iso2": "CZ",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Denmark",
+      "iso2": "DK",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Egypt",
+      "iso2": "EG",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Estonia",
+      "iso2": "EE",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Finland",
+      "iso2": "FI",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "France",
+      "iso2": "FR",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Georgia",
+      "iso2": "GE",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "Old USSR treaty gives no dividend reduction: 30% applies"
+    },
+    {
+      "country": "Germany",
+      "iso2": "DE",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Greece",
+      "iso2": "GR",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "1950 treaty gives no dividend reduction: same as default"
+    },
+    {
+      "country": "Hong Kong SAR",
+      "iso2": "HK",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No treaty; the US–China treaty does not cover Hong Kong"
+    },
+    {
+      "country": "Hungary",
+      "iso2": "HU",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "terminated",
+      "notes": "Treaty terminated; stopped applying to dividends at source on Jan 1, 2024: the default 30% now applies"
+    },
+    {
+      "country": "Iceland",
+      "iso2": "IS",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "India",
+      "iso2": "IN",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 25,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Indonesia",
+      "iso2": "ID",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Ireland",
+      "iso2": "IE",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Israel",
+      "iso2": "IL",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 25,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Italy",
+      "iso2": "IT",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Jamaica",
+      "iso2": "JM",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Japan",
+      "iso2": "JP",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 10,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Kazakhstan",
+      "iso2": "KZ",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Kenya",
+      "iso2": "KE",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No US income tax treaty"
+    },
+    {
+      "country": "Korea (South)",
+      "iso2": "KR",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Kyrgyzstan",
+      "iso2": "KG",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "Old USSR treaty gives no dividend reduction: 30% applies"
+    },
+    {
+      "country": "Latvia",
+      "iso2": "LV",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Lithuania",
+      "iso2": "LT",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Luxembourg",
+      "iso2": "LU",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Macau SAR",
+      "iso2": "MO",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No treaty; the US–China treaty does not cover Macau"
+    },
+    {
+      "country": "Malaysia",
+      "iso2": "MY",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No US income tax treaty"
+    },
+    {
+      "country": "Malta",
+      "iso2": "MT",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Mexico",
+      "iso2": "MX",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 10,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Moldova",
+      "iso2": "MD",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "Old USSR treaty gives no dividend reduction: 30% applies"
+    },
+    {
+      "country": "Morocco",
+      "iso2": "MA",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Netherlands",
+      "iso2": "NL",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "New Zealand",
+      "iso2": "NZ",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Nigeria",
+      "iso2": "NG",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No US income tax treaty"
+    },
+    {
+      "country": "Norway",
+      "iso2": "NO",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Pakistan",
+      "iso2": "PK",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "Old treaty gives no reduction on portfolio dividends"
+    },
+    {
+      "country": "Panama",
+      "iso2": "PA",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No US income tax treaty"
+    },
+    {
+      "country": "Peru",
+      "iso2": "PE",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No US income tax treaty"
+    },
+    {
+      "country": "Philippines",
+      "iso2": "PH",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 25,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Poland",
+      "iso2": "PL",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Portugal",
+      "iso2": "PT",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Qatar",
+      "iso2": "QA",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No US income tax treaty"
+    },
+    {
+      "country": "Romania",
+      "iso2": "RO",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 10,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Russia",
+      "iso2": "RU",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "suspended",
+      "notes": "Key treaty articles (incl. dividends) suspended for payments on or after Aug 16, 2024: 30% applies"
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso2": "SA",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No comprehensive treaty"
+    },
+    {
+      "country": "Singapore",
+      "iso2": "SG",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No US income tax treaty"
+    },
+    {
+      "country": "Slovak Republic",
+      "iso2": "SK",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Slovenia",
+      "iso2": "SI",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "South Africa",
+      "iso2": "ZA",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Spain",
+      "iso2": "ES",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Sweden",
+      "iso2": "SE",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Switzerland",
+      "iso2": "CH",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Taiwan",
+      "iso2": "TW",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No US income tax treaty"
+    },
+    {
+      "country": "Tajikistan",
+      "iso2": "TJ",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "Old USSR treaty gives no dividend reduction: 30% applies"
+    },
+    {
+      "country": "Thailand",
+      "iso2": "TH",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Trinidad & Tobago",
+      "iso2": "TT",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "Old treaty gives no reduction on portfolio dividends"
+    },
+    {
+      "country": "Tunisia",
+      "iso2": "TN",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 20,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Turkey",
+      "iso2": "TR",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 20,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Turkmenistan",
+      "iso2": "TM",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "Old USSR treaty gives no dividend reduction: 30% applies"
+    },
+    {
+      "country": "UAE",
+      "iso2": "AE",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No US income tax treaty"
+    },
+    {
+      "country": "Ukraine",
+      "iso2": "UA",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "United Kingdom",
+      "iso2": "GB",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "0% for certain pension funds; 5% direct rate"
+    },
+    {
+      "country": "Uzbekistan",
+      "iso2": "UZ",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": "Old USSR treaty gives no dividend reduction: 30% applies"
+    },
+    {
+      "country": "Venezuela",
+      "iso2": "VE",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 15,
+      "treaty_in_force": true,
+      "treaty_status": "in_force",
+      "notes": ""
+    },
+    {
+      "country": "Vietnam",
+      "iso2": "VN",
+      "rate_type": "portfolio_general",
+      "dividend_wht_rate_pct": 30,
+      "treaty_in_force": false,
+      "treaty_status": "none",
+      "notes": "No US income tax treaty"
+    }
+  ]
+}

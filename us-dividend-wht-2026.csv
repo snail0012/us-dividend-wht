@@ -1,0 +1,85 @@
+﻿country_name,country_iso2,rate_type,dividend_wht_rate_pct,treaty_in_force,treaty_status,notes,source_table,source_rev,last_verified
+Argentina,AR,portfolio_general,30,no,none,No US income tax treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Armenia,AM,portfolio_general,30,yes,in_force,Old USSR treaty gives no dividend reduction: 30% applies,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Australia,AU,portfolio_general,15,yes,in_force,2001 protocol; 5% direct rate for 10%+ corporate holders,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Austria,AT,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Azerbaijan,AZ,portfolio_general,30,yes,in_force,Old USSR treaty gives no dividend reduction: 30% applies,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Bangladesh,BD,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Barbados,BB,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Belarus,BY,portfolio_general,30,yes,in_force,"Old USSR treaty gives no dividend reduction: 30% applies; certain interest claims suspended Dec 17, 2024 (dividends unaffected)",IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Belgium,BE,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Brazil,BR,portfolio_general,30,no,none,No US income tax treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Bulgaria,BG,portfolio_general,10,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Canada,CA,portfolio_general,15,yes,in_force,RRSP/401(k)-style plans may be exempt under Art. XXI,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Chile,CL,portfolio_general,15,yes,in_force,Treaty in force since 2023,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+China (PRC),CN,portfolio_general,10,yes,in_force,Mainland residents; does not extend to Hong Kong or Macau,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Colombia,CO,portfolio_general,30,no,none,No US income tax treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Croatia,HR,portfolio_general,30,no,none,"Treaty signed Dec 7, 2022, not yet in force: the 30% default applies",IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Cyprus,CY,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Czech Republic,CZ,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Denmark,DK,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Egypt,EG,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Estonia,EE,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Finland,FI,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+France,FR,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Georgia,GE,portfolio_general,30,yes,in_force,Old USSR treaty gives no dividend reduction: 30% applies,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Germany,DE,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Greece,GR,portfolio_general,30,yes,in_force,1950 treaty gives no dividend reduction: same as default,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Hong Kong SAR,HK,portfolio_general,30,no,none,No treaty; the US–China treaty does not cover Hong Kong,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Hungary,HU,portfolio_general,30,no,terminated,"Treaty terminated; stopped applying to dividends at source on Jan 1, 2024: the default 30% now applies",IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Iceland,IS,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+India,IN,portfolio_general,25,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Indonesia,ID,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Ireland,IE,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Israel,IL,portfolio_general,25,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Italy,IT,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Jamaica,JM,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Japan,JP,portfolio_general,10,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Kazakhstan,KZ,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Kenya,KE,portfolio_general,30,no,none,No US income tax treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Korea (South),KR,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Kyrgyzstan,KG,portfolio_general,30,yes,in_force,Old USSR treaty gives no dividend reduction: 30% applies,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Latvia,LV,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Lithuania,LT,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Luxembourg,LU,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Macau SAR,MO,portfolio_general,30,no,none,No treaty; the US–China treaty does not cover Macau,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Malaysia,MY,portfolio_general,30,no,none,No US income tax treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Malta,MT,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Mexico,MX,portfolio_general,10,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Moldova,MD,portfolio_general,30,yes,in_force,Old USSR treaty gives no dividend reduction: 30% applies,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Morocco,MA,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Netherlands,NL,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+New Zealand,NZ,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Nigeria,NG,portfolio_general,30,no,none,No US income tax treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Norway,NO,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Pakistan,PK,portfolio_general,30,yes,in_force,Old treaty gives no reduction on portfolio dividends,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Panama,PA,portfolio_general,30,no,none,No US income tax treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Peru,PE,portfolio_general,30,no,none,No US income tax treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Philippines,PH,portfolio_general,25,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Poland,PL,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Portugal,PT,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Qatar,QA,portfolio_general,30,no,none,No US income tax treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Romania,RO,portfolio_general,10,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Russia,RU,portfolio_general,30,no,suspended,"Key treaty articles (incl. dividends) suspended for payments on or after Aug 16, 2024: 30% applies",IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Saudi Arabia,SA,portfolio_general,30,no,none,No comprehensive treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Singapore,SG,portfolio_general,30,no,none,No US income tax treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Slovak Republic,SK,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Slovenia,SI,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+South Africa,ZA,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Spain,ES,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Sri Lanka,LK,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Sweden,SE,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Switzerland,CH,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Taiwan,TW,portfolio_general,30,no,none,No US income tax treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Tajikistan,TJ,portfolio_general,30,yes,in_force,Old USSR treaty gives no dividend reduction: 30% applies,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Thailand,TH,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Trinidad & Tobago,TT,portfolio_general,30,yes,in_force,Old treaty gives no reduction on portfolio dividends,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Tunisia,TN,portfolio_general,20,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Turkey,TR,portfolio_general,20,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Turkmenistan,TM,portfolio_general,30,yes,in_force,Old USSR treaty gives no dividend reduction: 30% applies,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+UAE,AE,portfolio_general,30,no,none,No US income tax treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Ukraine,UA,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+United Kingdom,GB,portfolio_general,15,yes,in_force,0% for certain pension funds; 5% direct rate,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Uzbekistan,UZ,portfolio_general,30,yes,in_force,Old USSR treaty gives no dividend reduction: 30% applies,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Venezuela,VE,portfolio_general,15,yes,in_force,,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
+Vietnam,VN,portfolio_general,30,no,none,No US income tax treaty,IRS Tax Treaty Table 1,Rev. May 2023,2026-09-03
